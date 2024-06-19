@@ -1,0 +1,18 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+}
+
+
+.container
+{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.header
+{
+    display: flex;
+    justify-content: space-between;
+}
+
